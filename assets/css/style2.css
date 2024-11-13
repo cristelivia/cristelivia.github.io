@@ -1,0 +1,7 @@
+body{
+    background: url(../img/portada-2.jpg);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size:cover ;
+    
+}
